@@ -1,0 +1,123 @@
+🇻🇳 HƯỚNG DẪN MỞ WEBSITE CHIẾN THẮNG ĐIỆN BIÊN PHỦ 🇻🇳
+
+═══════════════════════════════════════════════════════════════
+
+📁 CÁC FILE TRONG THỦ MỤC:
+- index.html      → File website chính
+- styles.css      → File CSS (giao diện)  
+- script.js       → File JavaScript (hiệu ứng)
+- README.md       → Hướng dẫn chi tiết
+- HƯỚNG_DẪN_MỞ_WEBSITE.txt → File này
+
+═══════════════════════════════════════════════════════════════
+
+🚀 CÁCH MỞ WEBSITE:
+
+CÁCH 1: MỞ TRỰC TIẾP (ĐƠN GIẢN NHẤT)
+1. Nhấp đúp vào file "index.html"
+2. Website sẽ mở trong trình duyệt mặc định
+3. Thưởng thức website! 🎉
+
+CÁCH 2: CHỌN TRÌNH DUYỆT
+1. Nhấp chuột phải vào file "index.html"
+2. Chọn "Open with" → Chọn trình duyệt (Chrome, Firefox, Edge...)
+3. Website sẽ mở trong trình duyệt đã chọn
+
+CÁCH 3: KÉO THẢ
+1. Mở trình duyệt web
+2. Kéo file "index.html" vào cửa sổ trình duyệt
+3. Website sẽ hiển thị ngay lập tức
+
+═══════════════════════════════════════════════════════════════
+
+✨ TÍNH NĂNG WEBSITE:
+
+🎨 GIAO DIỆN:
+- Thiết kế hiện đại với màu đỏ-vàng-xanh lá
+- Responsive (tự động điều chỉnh theo màn hình)
+- Font chữ đẹp, dễ đọc
+
+🎭 HIỆU ỨNG:
+- Animation fade-in khi cuộn trang
+- Hiệu ứng hover trên các nút và hình ảnh
+- Counter tự động đếm số liệu
+- Lightbox xem ảnh phóng to
+
+📱 TƯƠNG THÍCH:
+- Máy tính (Windows, Mac, Linux)
+- Điện thoại (Android, iPhone)
+- Tablet (iPad, Android tablet)
+- Tất cả trình duyệt (Chrome, Firefox, Safari, Edge...)
+
+═══════════════════════════════════════════════════════════════
+
+🧭 ĐIỀU HƯỚNG WEBSITE:
+
+📍 CÁC PHẦN CHÍNH:
+1. Giới thiệu - Trang chủ với thông tin tổng quan
+2. Bối cảnh lịch sử - Timeline các sự kiện
+3. Diễn biến chiến dịch - 3 đợt tấn công CHI TIẾT:
+   • Đợt 1: Mở màn (13-17/3) - Him Lam, Độc Lập
+   • Đợt 2: Thu hẹp vây (30/3-26/4) - A1, C1, D1, D2  
+   • Đợt 3: Tổng công kích (1-7/5) - Toàn thắng
+   • Tổng kết với số liệu và quote của Tướng Giáp
+4. Nguyên nhân & Ý nghĩa - Phân tích chi tiết
+5. Anh hùng tiêu biểu - Các anh hùng liệt sĩ
+6. Điện Biên hôm nay - Tình hình hiện tại
+7. Thư viện hình ảnh - Gallery ảnh đẹp
+8. Nguồn tham khảo - Tài liệu tham khảo
+
+🎯 CÁCH SỬ DỤNG:
+- Click vào menu để chuyển phần
+- Cuộn chuột để xem nội dung
+- Click ảnh để xem phóng to
+- Nút mũi tên ở góc phải để lên đầu trang
+
+═══════════════════════════════════════════════════════════════
+
+🔧 XỬ LÝ SỰ CỐ:
+
+❌ WEBSITE KHÔNG MỞ ĐƯỢC:
+- Đảm bảo file index.html còn nguyên vẹn
+- Thử trình duyệt khác
+- Kiểm tra kết nối internet (cho hình ảnh)
+
+❌ HÌNH ẢNH KHÔNG HIỂN THỊ:
+- Kiểm tra kết nối internet
+- Hình ảnh sử dụng từ Unsplash (cần internet)
+- Website vẫn hoạt động bình thường dù thiếu ảnh
+
+❌ HIỆU ỨNG KHÔNG HOẠT ĐỘNG:
+- Đảm bảo JavaScript được bật trong trình duyệt
+- Thử refresh trang (F5)
+- Kiểm tra file script.js còn nguyên vẹn
+
+═══════════════════════════════════════════════════════════════
+
+📞 HỖ TRỢ:
+
+📖 Đọc file README.md để biết thêm chi tiết
+🔍 Mở Developer Tools (F12) để xem lỗi nếu có
+💡 Website hoạt động tốt nhất trên Chrome/Firefox
+
+═══════════════════════════════════════════════════════════════
+
+🎓 DÀNH CHO GIÁO VIÊN/HỌC SINH:
+
+✅ Website phù hợp cho:
+- Thuyết trình lịch sử
+- Bài giảng về Điện Biên Phủ
+- Tham khảo nội dung lịch sử
+- Học tập về thiết kế web
+
+📊 Có thể sử dụng để:
+- Chiếu lên máy chiếu
+- Học trên máy tính cá nhân
+- Tham khảo trên điện thoại
+- In nội dung (Ctrl+P)
+
+═══════════════════════════════════════════════════════════════
+
+🇻🇳 "CHIẾN THẮNG ĐIỆN BIÊN PHỦ - LỪNG LẪY NĂM CHÂU, CHẤN ĐỘNG ĐỊA CẦU" 🇻🇳
+
+Chúc bạn có trải nghiệm tuyệt vời với website! 🎉
